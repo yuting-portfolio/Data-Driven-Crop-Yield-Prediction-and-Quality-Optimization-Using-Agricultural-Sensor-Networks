@@ -1,1 +1,1 @@
-# Data-Driven-Crop-Yield-Prediction-and-Quality-Optimization-Using-Agricultural-Sensor-Networks
+#Research Proposal on Agricultural Product Quality Optimization and Yield Enhancement Based on Agricultural Sensor Analytics
