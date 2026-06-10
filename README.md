@@ -1,6 +1,1 @@
-#Studying real-world agricultural datasets and related literature.
-Analyzing variable design, data structures, and collection strategies.
-Designing a customized sensor-based dataset for crop yield and quality analysis.
-Developing a data-driven framework for agricultural monitoring and decision support.
-Status: Ongoing Research.
-
+Developing a sensor-based agricultural data analytics framework for crop yield prediction and quality optimization. Current work focuses on studying real-world datasets, designing data collection protocols, defining key variables, and building a research-oriented data architecture for future predictive modeling and decision support.
