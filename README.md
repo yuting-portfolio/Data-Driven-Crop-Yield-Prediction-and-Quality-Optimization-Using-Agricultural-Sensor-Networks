@@ -1,1 +1,6 @@
-Developing a sensor-based agricultural data analytics framework for crop yield prediction and quality optimization. Current work focuses on studying real-world datasets, designing data collection protocols, defining key variables, and building a research-oriented data architecture for future predictive modeling and decision support.
+The primary objectives of this project include:
+Collecting and organizing multi-source agricultural sensor data.
+Exploring relationships between environmental variables and crop performance.
+Identifying key factors that influence crop yield and quality.
+Developing data-driven prediction models for agricultural decision support.
+Building an interpretable analytics framework for future smart agriculture applications.
